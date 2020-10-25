@@ -1,0 +1,7 @@
+Adrian Tomas Fuentes;25;R;4;1;201903;1
+David Garcia Castro;31;M;4;2;201904;1
+Diego Rovira Cortes;54;B;4;3;202001;1
+Erik Domenech Iglesias;36;M;3;2;202001;1
+Luis Navarro Ortega;41;M;4;4;202012;1
+Marcos Serrano Gomez;34;R;4;5;202002;1
+Pablo Campos Castro;23;B;3;5;201912;1
